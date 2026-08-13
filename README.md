@@ -18,6 +18,5 @@
 
 
 ### 🔗 Connect with Me
-  <a href="mailto:pvenkataramanjaneyulu_cse2405x1@mgit.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  <a href="mailto:pvenkataramanjaneyulu_cse2405x1@mgit.ac.in">email
   </a>
